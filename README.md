@@ -38,7 +38,4 @@
   <li><strong>Eliminar cambios temporales</strong><br> git stash drop</li>
   <li><strong>Traer un commit de otra rama:</strong><br> git cherry-pick (numero que sale en log)</li>
   <li><strong>Buscar palabra en especifico:</strong><br> git grep -n (palabra que quiero buscar)</li>
-  <li><strong></strong><br></li>
-  
-  
 </ul>
